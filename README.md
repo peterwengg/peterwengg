@@ -22,7 +22,11 @@
   <h3>:woman_technologist: About Me :</h3>
   <p>🔭 I’m currently an Information Systems Undergraduate with experience in Software Engineering in full stack web development and automation.</p>
   <p>⚡ In my free time, I enjoy creating solutions that enhance user experiences.</p>
-  <p>📫 How to reach me: <a href="https://www.linkedin.com/in/peter-wengjiayang/"><img src="https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/></a></p>
+  <p>📫 How to reach me: 
+    <a href="https://www.linkedin.com/in/peter-wengjiayang/">
+      <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </p>
 </div>
 
 <hr>
@@ -53,7 +57,7 @@
 
 <div style="text-align: center;">
   <h3>:fire: My Stats :</h3>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=peterwengg&theme=dark" alt="GitHub Streak"/>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterwengg&layout=compact&theme=vision-friendly-dark" alt="Top Langs"/>
 </div>
 
