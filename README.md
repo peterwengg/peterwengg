@@ -50,7 +50,7 @@
 
 <hr>
 
-:fire: My Stats :
+:fire: My Stats : \
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=peterwengg&theme=dark&show_icons=true)\
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=peterwengg&theme=dark)](https://git.io/streak-stats)
 
