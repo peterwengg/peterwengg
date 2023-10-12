@@ -22,11 +22,6 @@
   <h3>:woman_technologist: About Me :</h3>
   <p>🔭 I’m currently an Information Systems Undergraduate with experience in Software Engineering in full stack web development and automation.</p>
   <p>⚡ In my free time, I enjoy creating solutions that enhance user experiences.</p>
-  <p>📫 How to reach me: 
-    <a href="https://www.linkedin.com/in/peter-wengjiayang/">
-      <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-  </p>
 </div>
 
 <hr>
@@ -56,8 +51,7 @@
 <hr>
 
 :fire: My Stats :
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=peterwengg&theme=dark&show_icons=true)
-<br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=peterwengg&theme=dark&show_icons=true)\
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=peterwengg&theme=dark)](https://git.io/streak-stats)
 
 
