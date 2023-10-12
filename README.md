@@ -55,10 +55,11 @@
 
 <hr>
 
-<div style="text-align: center;">
-  <h3>:fire: My Stats :</h3>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterwengg&layout=compact&theme=vision-friendly-dark" alt="Top Langs"/>
-</div>
+:fire: My Stats :
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=peterwengg&theme=dark&show_icons=true)
+<br>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=peterwengg&theme=dark)](https://git.io/streak-stats)
+
+
 
 
