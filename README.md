@@ -21,7 +21,8 @@
 <div style="text-align: center;">
   <h3>:woman_technologist: About Me :</h3>
   <p>🔭 I’m currently an Information Systems Undergraduate with Software Engineering experience in full stack web development and automation.</p>
-  <p>⚡ In my free time, I enjoy creating solutions that enhance user experiences.</p>
+  <p>⚡ In my free time, I enjoy creating innovative solutions that enhances user experience. 
+    I empathize with users interacting with technology and focus on making their process more efficient, user-friendly, and enjoyable</p>
 </div>
 
 <hr>
@@ -30,7 +31,6 @@
   <h3>:hammer_and_wrench: Languages and Tools :</h3>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
