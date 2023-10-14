@@ -21,7 +21,7 @@
 <div style="text-align: center;">
   <h3>:woman_technologist: About Me :</h3>
   <p>🔭 I’m currently an Information Systems Undergraduate with Software Engineering experience in full stack web development and automation.</p>
-  <p>⚡ In my free time, I enjoy creating innovative solutions that enhances user experience. I empathize with users interacting with technology and focus on making their process more efficient, user-friendly, and enjoyable
+  <p>⚡ In my free time, I enjoy creating innovative solutions that enhances user experience. I empathize with users interacting with technology and focus on making their process seamless, user-friendly, and enjoyable
   </p>
 </div>
 
